@@ -1,3 +1,10 @@
 .task {
   /* Sample  */
+  display: flex;
+  padding-left: 660px;
+  margin-top: 25px;
+  align-content: space-between;
+}
+.strikedThrough{
+  text-decoration: line-through;
 }
